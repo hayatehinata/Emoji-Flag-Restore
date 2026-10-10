@@ -1,0 +1,6 @@
+id=emoji_flag_restore
+name=Emoji Flag Restore
+version=1.0.0
+versionCode=10000
+author=hayatehinata
+description=Restores missing or transparent flag emoji, including Taiwan (TW), using the original AOSP Noto flags font. For Android ROMs with a separate Noto flag font. Magisk / KernelSU.

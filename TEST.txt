@@ -1,0 +1,12 @@
+Emoji Flag Restore: rendering check
+
+Taiwan:         🇹🇼
+Japan:          🇯🇵
+United States:  🇺🇸
+United Kingdom: 🇬🇧
+United Nations: 🇺🇳
+Rainbow flag:   🏳️‍🌈
+Pirate flag:    🏴‍☠️
+
+Paste these characters into an app that uses Android system emoji fonts.
+Keyboard picker visibility and app-specific emoji are separate from font rendering.
